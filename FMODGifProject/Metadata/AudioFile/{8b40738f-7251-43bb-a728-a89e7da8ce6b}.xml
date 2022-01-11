@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{8b40738f-7251-43bb-a728-a89e7da8ce6b}">
+		<property name="assetPath">
+			<value>Beetle Squark5 by warrenXG Id-502211.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.48451247165532879</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{9119f6d2-104e-4322-b900-7e4dd179d665}</destination>
+		</relationship>
+	</object>
+</objects>

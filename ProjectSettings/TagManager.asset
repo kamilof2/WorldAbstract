@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Block
+  - Beetle
+  - Enemy
+  - Mouse
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2719504949
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Middle
+    uniqueID: 381527985
+    locked: 0
+  - name: Fog Strong
+    uniqueID: 2571698259
+    locked: 0
+  - name: Front
+    uniqueID: 2046535567
+    locked: 0
+  - name: Player
+    uniqueID: 3449541107
+    locked: 0
+  - name: FogMedium
+    uniqueID: 3696814453
+    locked: 0
+  - name: Ramy
+    uniqueID: 3817855907
+    locked: 0

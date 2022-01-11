@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{4960dc6e-58bb-4794-8286-b20eec6c7b62}">
+		<property name="assetPath">
+			<value>Tools, Hand, Axe, Chop, Strike Wood, Single SND28125.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.27983333333333332</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{9119f6d2-104e-4322-b900-7e4dd179d665}</destination>
+		</relationship>
+	</object>
+</objects>

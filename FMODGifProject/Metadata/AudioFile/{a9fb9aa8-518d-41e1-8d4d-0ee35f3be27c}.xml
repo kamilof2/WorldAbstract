@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{a9fb9aa8-518d-41e1-8d4d-0ee35f3be27c}">
+		<property name="assetPath">
+			<value>Wind, General, Calm, Mountain, Sea, Distant Waves 03 SND41024.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>85.375</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{9119f6d2-104e-4322-b900-7e4dd179d665}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{5380be6c-09c5-4820-8ece-b861e75b14b0}">
+		<property name="assetPath">
+			<value>Mouse Shrill by freakinbehemoth Id-241270 2.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.6192743764172336</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{9119f6d2-104e-4322-b900-7e4dd179d665}</destination>
+		</relationship>
+	</object>
+</objects>
